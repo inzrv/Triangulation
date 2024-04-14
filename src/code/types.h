@@ -13,7 +13,7 @@
 #include <vector>
 
 
-using Rep_class = CGAL::Cartesian<double>;
+typedef CGAL::Cartesian<double> Rep_class;
 typedef CGAL::Point_2<Rep_class> Point;
 typedef CGAL::Vector_2<Rep_class> Vector;
 typedef CGAL::Segment_2<Rep_class> Segment;
