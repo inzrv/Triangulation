@@ -1,9 +1,7 @@
 # Triangulation
-<div style="display: flex;">
-    <img src="pics/triangulation.png" style="width: 250; height: 250; margin-right: 10px">
-    <img src="pics/proof.jpeg" style="width: 150; height: 250" >
-</div>
+<img src="pics/triangulation.png" style="width: 250; height: 250">
 The algorithm for triangulating an arbitrary simple polygon has been implemented. The algorithm is based on proving the theorem of the existence of a polygon's triangulation[1].
+
 
 `CGAL` objects were used as primitives. Illustrations were made using `OpenCV`.
 
